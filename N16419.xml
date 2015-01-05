@@ -121,8 +121,8 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:021089_0000_0FB23883498DD0E8"/>
-            <pb facs="tcp:021089_0001_0FB23884C9075B08"/>
+            <pb facs="unknown:021089_0000_0FB23883498DD0E8"/>
+            <pb facs="unknown:021089_0001_0FB23884C9075B08"/>
             <p>
                <figure/>
             </p>
@@ -131,7 +131,7 @@
             </p>
          </div>
          <div type="frontispiece">
-            <pb facs="tcp:021089_0002_0FB23886485A65B0"/>
+            <pb facs="unknown:021089_0002_0FB23886485A65B0"/>
             <p>
                <figure/>
             </p>
@@ -147,7 +147,7 @@
             </lg>
          </div>
          <div type="title_page">
-            <pb facs="tcp:021089_0003_0FB23887C7AD2620"/>
+            <pb facs="unknown:021089_0003_0FB23887C7AD2620"/>
             <p>TOMMY THUMB's SONG BOOK, FOR ALL LITTLE MASTERS and MISSES, To be Sung to them by their Nurſes, until they can ſing themſelves.</p>
             <p>By NURSE LOVECHILD.</p>
             <p>TO WHICH IS ADDED, A Letter from a Lady on Nurſing.</p>
@@ -159,18 +159,18 @@
                </gap> BOOKSTORE<g ref="char:punc">▪</g> MDCCLXXXVIII.</p>
          </div>
          <div type="letter">
-            <pb facs="tcp:021089_0004_0FB2388948C0FF50"/>
+            <pb facs="unknown:021089_0004_0FB2388948C0FF50"/>
             <head>TO NURSE LOVECHILD.</head>
             <opener>
                <salute>DEAR NURSE,</salute>
             </opener>
             <p>YOUR Diligence and Tenderneſs in bringing up my Children, will always command my utmoſt Endeav<g ref="char:EOLhyphen"/>ours to ſerve you. And as I cannot but approve, ſo I recommend this your laudable Deſign, of compiling a Collection of Songs, ſo fit for the Capacities of Infants. both in Words and Tunes, by which they are often, lull'd to Reſt, when croſs, and in great Pain. The firſt Songs are very ſuitably compos'd for a Baby: but pray be careful, not to ſing them too loud; leſt you frighten the Child, when you deſign to lull it to Sleep<g ref="char:punc">▪</g> or divert it: For you know, great Care ought to be obſerved as to the early Senſe of Children, ſome arriving
-<pb n="5" facs="tcp:021089_0005_0FB2388AC87325A0"/>
+<pb n="5" facs="unknown:021089_0005_0FB2388AC87325A0"/>
 to a Knowledge, and Notice of Ani<g ref="char:EOLhyphen"/>mals and their Sounds, much earlier than others.</p>
             <p>And now I am ſpeaking of Frights, I will recommend a Method that is very uſeful, to prevent them in ſome Caſes, ſuch as in making them fa<g ref="char:EOLhyphen"/>miliar with Domeſtick, or other Ani<g ref="char:EOLhyphen"/>mals, as the Dog, Cat, Horſe, Cow, &amp;c. by perſuading them to ſtroke, or touch them, as they happen to fall in their Way, which will make them as they grow up, bold in their Carriage, to all ſuch Creatures, otherwiſe tim<g ref="char:EOLhyphen"/>orous to a Misfortune.</p>
             <p>But this in particular, I inſiſt on, above all others, that you never men<g ref="char:EOLhyphen"/>tion a Bull Beggar, Tom Poker, Raw Head and Bloody Bones, &amp;c. leſt you make ſuch frightful Impreſſions on their tender Minds, as may never be eradicated.</p>
             <p>
-               <pb n="6" facs="tcp:021089_0006_0FB2388C497B7D80"/>
+               <pb n="6" facs="unknown:021089_0006_0FB2388C497B7D80"/>
 There is another Concern I men<g ref="char:EOLhyphen"/>tion as to their bodily Preſervation; that is, as many of the following Songs while the Nurſes are ſinging them, are attended with dancing, or exerciſing Infants, I ſeriouſly intreat all who have the Care of Children, not to ſwing them by the Arms with their Heels backwards, leſt they diſlocate their Backs, which has fre<g ref="char:EOLhyphen"/>quently been the Ruin of many a fine Child.</p>
             <p>I hope your experienced Siſter Nurſes will not be diſpleaſed, as my Deſign is not to direct them: But as it very often happens, that young Girls are intruſted with the Care of Children, I think theſe Precautions, and Songs, may be of Uſe to them, as they have been to,</p>
             <closer>
@@ -180,10 +180,10 @@ There is another Concern I men<g ref="char:EOLhyphen"/>tion as to their bodily P
       </front>
       <body>
          <div type="text">
-            <pb n="7" facs="tcp:021089_0007_0FB2388DC79C4DA0"/>
+            <pb n="7" facs="unknown:021089_0007_0FB2388DC79C4DA0"/>
             <div type="part">
                <head>ARTIFICIAL MEMORY FOR INFANTS; WHEREBY They may Acquire THE Knowledge of Animals, AND SOME Of their SOUNDS, BEFORE They can Go or Speak.</head>
-               <pb n="8" facs="tcp:021089_0008_0FB23890014702D8"/>
+               <pb n="8" facs="unknown:021089_0008_0FB23890014702D8"/>
                <p>ALTHOUGH this Invention is calculated for the Diverſion of Infants, yet it will afford great Pleaſ<g ref="char:EOLhyphen"/>ure to the Parent, or Nurſe, to ob<g ref="char:EOLhyphen"/>ſerve the Progreſs, and ſurpriſing Difference in the early Senſe of their Children.</p>
                <p>The Method I propoſe, is, that you firſt ſhew the Child, the follow<g ref="char:EOLhyphen"/>ing Animals one at a Time, and pro<g ref="char:EOLhyphen"/>nounce its Sound, as for Example,</p>
                <p>Aſk which is the DOG? Then point to it, then aſk what the DOG ſays, then ſay,</p>
@@ -267,7 +267,7 @@ There is another Concern I men<g ref="char:EOLhyphen"/>tion as to their bodily P
                </list>
             </div>
             <div type="song">
-               <pb n="21" facs="tcp:021089_0021_0FB238A388FB4548"/>
+               <pb n="21" facs="unknown:021089_0021_0FB238A388FB4548"/>
                <head>BABY BUNTING.</head>
                <figure/>
                <lg>
@@ -284,7 +284,7 @@ There is another Concern I men<g ref="char:EOLhyphen"/>tion as to their bodily P
                </p>
             </div>
             <div type="song">
-               <pb n="22" facs="tcp:021089_0022_0FB238A59E7F7AD8"/>
+               <pb n="22" facs="unknown:021089_0022_0FB238A59E7F7AD8"/>
                <head>BABY ON THE TREE TOP.</head>
                <p>
                   <figure/>
@@ -304,7 +304,7 @@ There is another Concern I men<g ref="char:EOLhyphen"/>tion as to their bodily P
                </p>
             </div>
             <div type="song">
-               <pb n="23" facs="tcp:021089_0023_0FB238A68B445E70"/>
+               <pb n="23" facs="unknown:021089_0023_0FB238A68B445E70"/>
                <head>PATTY CAKE.</head>
                <p>
                   <figure/>
@@ -324,7 +324,7 @@ There is another Concern I men<g ref="char:EOLhyphen"/>tion as to their bodily P
                </p>
             </div>
             <div type="song">
-               <pb n="24" facs="tcp:021089_0024_0FB238A80998B210"/>
+               <pb n="24" facs="unknown:021089_0024_0FB238A80998B210"/>
                <head>MARGERY DAW.</head>
                <p>
                   <figure/>
@@ -340,7 +340,7 @@ There is another Concern I men<g ref="char:EOLhyphen"/>tion as to their bodily P
                </p>
             </div>
             <div type="song">
-               <pb n="25" facs="tcp:021089_0025_0FB238A989B6A608"/>
+               <pb n="25" facs="unknown:021089_0025_0FB238A989B6A608"/>
                <head>PENNY A DAY.</head>
                <p>
                   <figure/>
@@ -359,7 +359,7 @@ There is another Concern I men<g ref="char:EOLhyphen"/>tion as to their bodily P
                </p>
             </div>
             <div type="song">
-               <pb n="26" facs="tcp:021089_0026_0FB238AB9476A9A8"/>
+               <pb n="26" facs="unknown:021089_0026_0FB238AB9476A9A8"/>
                <head>LONDON BELLS.</head>
                <p>
                   <figure/>
@@ -374,7 +374,7 @@ There is another Concern I men<g ref="char:EOLhyphen"/>tion as to their bodily P
                   <l>Oranges and Lemons,</l>
                   <l>Ring the Bells at St. Clemens.</l>
                   <l>
-                     <pb n="27" facs="tcp:021089_0027_0FB238AC89970460"/>
+                     <pb n="27" facs="unknown:021089_0027_0FB238AC89970460"/>
 When will you pay me?</l>
                   <l>Ring the Bells at Old Bailey.</l>
                   <l>When I am rich,</l>
@@ -389,7 +389,7 @@ When will you pay me?</l>
                </p>
             </div>
             <div type="song">
-               <pb n="28" facs="tcp:021089_0028_0FB238AE07D0CF08"/>
+               <pb n="28" facs="unknown:021089_0028_0FB238AE07D0CF08"/>
                <head>CHARLESTOWN BRIDGE.</head>
                <p>
                   <figure/>
@@ -411,7 +411,7 @@ When will you pay me?</l>
                   <l>With a gay Lady.</l>
                </lg>
                <lg>
-                  <pb n="29" facs="tcp:021089_0029_0FB238AF8A44EFD0"/>
+                  <pb n="29" facs="unknown:021089_0029_0FB238AF8A44EFD0"/>
                   <l>Build it up with</l>
                   <l>Gravel and Stone,</l>
                   <l>Dance over my Lady Lee:</l>
@@ -440,7 +440,7 @@ When will you pay me?</l>
                   <l>Will bend and bow,</l>
                   <l>Dance over my Lady Lee:</l>
                   <l>
-                     <pb n="30" facs="tcp:021089_0030_0FB238B1A3D04A08"/>
+                     <pb n="30" facs="unknown:021089_0030_0FB238B1A3D04A08"/>
 Iron and Steel</l>
                   <l>Will bend and bow,</l>
                   <l>With a gay Lady.</l>
@@ -471,7 +471,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="31" facs="tcp:021089_0031_0FB238B28A627E38"/>
+               <pb n="31" facs="unknown:021089_0031_0FB238B28A627E38"/>
                <head>ROBIN RED BREAST.</head>
                <p>
                   <figure/>
@@ -487,7 +487,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="32" facs="tcp:021089_0032_0FB238B40CB69F98"/>
+               <pb n="32" facs="unknown:021089_0032_0FB238B40CB69F98"/>
                <head>THE OLD WOMAN.</head>
                <p>
                   <figure/>
@@ -503,7 +503,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="33" facs="tcp:021089_0033_0FB238B642656358"/>
+               <pb n="33" facs="unknown:021089_0033_0FB238B642656358"/>
                <head>TOM THUMB and his NURSE.</head>
                <p>
                   <figure/>
@@ -524,7 +524,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="34" facs="tcp:021089_0034_0FB238B707A87AD0"/>
+               <pb n="34" facs="unknown:021089_0034_0FB238B707A87AD0"/>
                <head>Who did kill COCK ROBIN.</head>
                <p>
                   <figure/>
@@ -546,7 +546,7 @@ Iron and Steel</l>
                   <l>And I did ſee him die.</l>
                </lg>
                <lg>
-                  <pb n="35" facs="tcp:021089_0035_0FB238B889064D80"/>
+                  <pb n="35" facs="unknown:021089_0035_0FB238B889064D80"/>
                   <head>III.</head>
                   <l>And who did catch his Blood?</l>
                   <l>I, ſaid the Fiſh,</l>
@@ -565,7 +565,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="36" facs="tcp:021089_0036_0FB238BA07A75DA8"/>
+               <pb n="36" facs="unknown:021089_0036_0FB238BA07A75DA8"/>
                <head>JACKY DANDY.</head>
                <p>
                   <figure/>
@@ -582,7 +582,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="37" facs="tcp:021089_0037_0FB238BBABAF8090"/>
+               <pb n="37" facs="unknown:021089_0037_0FB238BBABAF8090"/>
                <head>LITTLE BOY liv'd by himſelf.</head>
                <p>
                   <figure/>
@@ -600,7 +600,7 @@ Iron and Steel</l>
                   <l>To buy me a Wife:</l>
                </lg>
                <lg>
-                  <pb n="38" facs="tcp:021089_0038_0FB238BD07B488C0"/>
+                  <pb n="38" facs="unknown:021089_0038_0FB238BD07B488C0"/>
                   <l>The Streets were ſo broad,</l>
                   <l>And the Lanes were ſo narrow,</l>
                   <l>I was forc'd to bring my Wife</l>
@@ -617,7 +617,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="39" facs="tcp:021089_0039_0FB238BE87920CA0"/>
+               <pb n="39" facs="unknown:021089_0039_0FB238BE87920CA0"/>
                <head>An OLD WOMAN and ſhe ſold PUDDINGS.</head>
                <p>
                   <figure/>
@@ -636,7 +636,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="40" facs="tcp:021089_0040_0FB238C009C3AA10"/>
+               <pb n="40" facs="unknown:021089_0040_0FB238C009C3AA10"/>
                <head>ROBIN AND BOBBIN.</head>
                <p>
                   <figure/>
@@ -652,7 +652,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="41" facs="tcp:021089_0041_0FB238C1AFB614B0"/>
+               <pb n="41" facs="unknown:021089_0041_0FB238C1AFB614B0"/>
                <head>CAT AND A FIDDLE.</head>
                <p>
                   <figure/>
@@ -670,7 +670,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="42" facs="tcp:021089_0042_0FB238C308377848"/>
+               <pb n="42" facs="unknown:021089_0042_0FB238C308377848"/>
                <head>COCK A DOODLE DO.</head>
                <p>
                   <figure/>
@@ -686,7 +686,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="43" facs="tcp:021089_0043_0FB238C48934F6D0"/>
+               <pb n="43" facs="unknown:021089_0043_0FB238C48934F6D0"/>
                <head>HARK, HARK.</head>
                <p>
                   <figure/>
@@ -704,7 +704,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="44" facs="tcp:021089_0044_0FB238C60A104F28"/>
+               <pb n="44" facs="unknown:021089_0044_0FB238C60A104F28"/>
                <head>LITTLE JACK HORNER.</head>
                <p>
                   <figure/>
@@ -725,7 +725,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="45" facs="tcp:021089_0045_0FB238C798763118"/>
+               <pb n="45" facs="unknown:021089_0045_0FB238C798763118"/>
                <head>A PRETTY WENCH.</head>
                <p>
                   <figure/>
@@ -743,7 +743,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="46" facs="tcp:021089_0046_0FB238C909FDC510"/>
+               <pb n="46" facs="unknown:021089_0046_0FB238C909FDC510"/>
                <head>MAGOTTY PYE.</head>
                <p>
                   <figure/>
@@ -759,7 +759,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="47" facs="tcp:021089_0047_0FB238CA873F25F8"/>
+               <pb n="47" facs="unknown:021089_0047_0FB238CA873F25F8"/>
                <head>ROBIN AND BOBBIN</head>
                <p>
                   <figure/>
@@ -776,7 +776,7 @@ Iron and Steel</l>
                   <l>Says every one.</l>
                </lg>
                <lg>
-                  <pb n="48" facs="tcp:021089_0048_0FB238CC94C00EB8"/>
+                  <pb n="48" facs="unknown:021089_0048_0FB238CC94C00EB8"/>
                   <head>II.</head>
                   <l>We will ſhoot at a Wren,</l>
                   <l>Says Robin to Bobbin,</l>
@@ -801,7 +801,7 @@ Iron and Steel</l>
                   <l>How ſhall we get, &amp;c.</l>
                </lg>
                <lg>
-                  <pb n="49" facs="tcp:021089_0049_0FB238CD89794B00"/>
+                  <pb n="49" facs="unknown:021089_0049_0FB238CD89794B00"/>
                   <head>V.</head>
                   <l>We will hire a Cart,</l>
                   <l>Says Robin to Bobbin,</l>
@@ -827,7 +827,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="50" facs="tcp:021089_0050_0FB238CF0841CCD0"/>
+               <pb n="50" facs="unknown:021089_0050_0FB238CF0841CCD0"/>
                <head>BOYS AND GIRLS.</head>
                <p>
                   <figure/>
@@ -842,7 +842,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="51" facs="tcp:021089_0051_0FB238D1CBDC8790"/>
+               <pb n="51" facs="unknown:021089_0051_0FB238D1CBDC8790"/>
                <head>GREY BEARD.</head>
                <p>
                   <figure/>
@@ -855,7 +855,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="52" facs="tcp:021089_0052_0FB238D2CB93A750"/>
+               <pb n="52" facs="unknown:021089_0052_0FB238D2CB93A750"/>
                <head>HARRY PARRY.</head>
                <p>
                   <figure/>
@@ -870,7 +870,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="53" facs="tcp:021089_0053_0FB238D447B57ED8"/>
+               <pb n="53" facs="unknown:021089_0053_0FB238D447B57ED8"/>
                <head>SONG OF SIX PENCE.</head>
                <p>
                   <figure/>
@@ -887,7 +887,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="54" facs="tcp:021089_0054_0FB238D5E1889070"/>
+               <pb n="54" facs="unknown:021089_0054_0FB238D5E1889070"/>
                <head>LIAR LICKSPIT.</head>
                <p>
                   <figure/>
@@ -903,7 +903,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="55" facs="tcp:021089_0055_0FB238D8089B9918"/>
+               <pb n="55" facs="unknown:021089_0055_0FB238D8089B9918"/>
                <head>MRS. MARY.</head>
                <p>
                   <figure/>
@@ -918,7 +918,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="56" facs="tcp:021089_0056_0FB238D988E17000"/>
+               <pb n="56" facs="unknown:021089_0056_0FB238D988E17000"/>
                <head>RIDE A COCK HORSE.</head>
                <p>
                   <figure/>
@@ -933,7 +933,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="57" facs="tcp:021089_0057_0FB238DB0A65E938"/>
+               <pb n="57" facs="unknown:021089_0057_0FB238DB0A65E938"/>
                <head>FEE, FAW, FUM.</head>
                <p>
                   <figure/>
@@ -950,7 +950,7 @@ Iron and Steel</l>
                </p>
             </div>
             <div type="song">
-               <pb n="58" facs="tcp:021089_0058_0FB238DD1F2C1658"/>
+               <pb n="58" facs="unknown:021089_0058_0FB238DD1F2C1658"/>
                <head>OH, MY KITTEN.</head>
                <p>
                   <figure/>
@@ -967,7 +967,7 @@ Iron and Steel</l>
                </lg>
             </div>
             <div type="song">
-               <pb n="59" facs="tcp:021089_0059_0FB238DE07AC1898"/>
+               <pb n="59" facs="unknown:021089_0059_0FB238DE07AC1898"/>
                <head>LION AND THE UNICORN.</head>
                <p>
                   <figure/>
@@ -987,7 +987,7 @@ Iron and Steel</l>
       </body>
       <back>
          <div type="publishers_advertisement">
-            <pb facs="tcp:021089_0060_0FB238DF87CDF878"/>
+            <pb facs="unknown:021089_0060_0FB238DF87CDF878"/>
             <head>BOOKS, for Maſters and Miſſes of all Ages, which will make them wiſe and happy, printed and ſold by ISAIAH THOMAS, at his Bookſtore in Worceſter, Maſſachuſetts, all ornamented with Cuts, and prettily bound.</head>
             <list>
                <head>The following are all price four Cents each, or four federal coppers, viz.</head>
@@ -999,7 +999,7 @@ Iron and Steel</l>
                <item>The ROYAL ALPHABET; or Child's beſt Inſtructor; to which is added, the Hiſtory of a little Boy found under a Haycock.</item>
                <item>The Death and Burial of COCK ROB<g ref="char:EOLhyphen"/>BIN; with the tragical Death of A, Apple Pye.</item>
                <item>
-                  <pb facs="tcp:021089_0061_0FB238E108142D20"/>
+                  <pb facs="unknown:021089_0061_0FB238E108142D20"/>
 The remarkable Hiſtory of TOM JONES, a Foundling.</item>
                <item>TOM THUMB's Folio; or a Three penny play Thing for Little Giants. To which is added an Abſtract of the Life of Mr. Thumb.</item>
                <item>Entertaining FABLES, for General Inſtruction.</item>
@@ -1012,7 +1012,7 @@ The remarkable Hiſtory of TOM JONES, a Foundling.</item>
                <item>TOM THUMB's PLAY BOOK, to teach Children their Letters as ſoon as they can ſpeak. Being a new and pleaſant Method to allure little Ones in the firſt Principles of Learning, price only two Pence.</item>
             </list>
             <list>
-               <pb facs="tcp:021089_0062_0FB238E288C21C78"/>
+               <pb facs="unknown:021089_0062_0FB238E288C21C78"/>
                <head>The following are all price eight Cents each.</head>
                <item>The FAIRING: Or, a golden Toy for Children of all Sizes and Denominations.</item>
                <item>The LILIPUTIAN MASQUERADE.</item>
@@ -1025,7 +1025,7 @@ The remarkable Hiſtory of TOM JONES, a Foundling.</item>
                <item>Hiſtory of the HOLY JESUS. Contain<g ref="char:EOLhyphen"/>ing a brief and plain Account of his, Birth, Life, Death, Reſurrection, and Aſcenſion into Heaven; and his com<g ref="char:EOLhyphen"/>ing again at the great and laſt Day of Judgment.</item>
             </list>
             <list>
-               <pb facs="tcp:021089_0063_0FB238E4C7B269C8"/>
+               <pb facs="unknown:021089_0063_0FB238E4C7B269C8"/>
                <head>The following are all to be ſold at eight Pence each, viz.</head>
                <item>The MOTHER's GIFT; or a Preſent for all little Children who wiſh to be good. In 2 Volumes.</item>
                <item>The ROYAL PRIMER; or, an Eaſy Guide to the Art of Reading.</item>
@@ -1041,7 +1041,7 @@ The remarkable Hiſtory of TOM JONES, a Foundling.</item>
             </list>
          </div>
          <div type="illustrations">
-            <pb facs="tcp:021089_0064_0FB238E64813C790"/>
+            <pb facs="unknown:021089_0064_0FB238E64813C790"/>
             <p>
                <figure/>
             </p>
